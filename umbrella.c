@@ -5,10 +5,10 @@ int main()
 {
 	// BOLD
 	printf("\nBOLD TEXTn");
-	printf("\n%sBOLD%s ", BOLD_ON, BOLD_OFF);
+	printf("\n%sBOLD%s\n", BOLD_ON, BOLD_OFF);
 	
 	// STD FORE
-	printf("\nSTF FOREGROUND\n");
+	printf("\nSTD FOREGROUND\n");
 	printf("\n%sWHITE%s ", WHITE_FORE, ENDC);
 	printf("\n%sBLACK%s ", BLACK_FORE, ENDC);
 	printf("\n%sYELLOW%s ", YELLOW_FORE, ENDC);
