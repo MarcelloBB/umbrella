@@ -13,6 +13,9 @@
 #define       BOLD_ON           "\033[1m"
 #define       BOLD_OFF          "\033[21m"
 
+/* COLOR (ON/OFF) */
+#define       ENDC              "\033[0m"
+
 /* ====================================================
  *   FOREGROUND
  * ==================================================== */
@@ -23,5 +26,6 @@
 #define       MAGENTA_FORE      "\033[35m"
 #define       CYAN_FORE         "\033[36m"
 #define       WHITE_FORE        "\033[37m"
+
 
 #endif
