@@ -10,7 +10,7 @@ int main()
 	printf("\n%sWHITE%s ", WHITE_FORE, ENDC);
 	printf("\n%sBLACK%s ", BLACK_FORE, ENDC);
 	printf("\n%sYELLOW%s ", YELLOW_FORE, ENDC);
-	printf("\n%sRED%s\n", RED_FORE, ENDC);
+	printf("\n%sRED%s ", RED_FORE, ENDC);
 	printf("\n%sMAGENTA%s ", MAGENTA_FORE, ENDC);
 	printf("\n%sBLUE%s ", BLUE_FORE, ENDC);
 	printf("\n%sCYAN%s", CYAN_FORE, ENDC);
