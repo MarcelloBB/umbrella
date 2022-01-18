@@ -3,9 +3,6 @@
 
 int main()
 {
-	//  UNDERLINED
-	printf("\n%sUNDERLINED%s\n", UNDERLINE_ON, UNDERLINE_OFF);
-
 	// BOLD
 	printf("\n%sBOLD%s\n", BOLD_ON, BOLD_OFF);
 	
