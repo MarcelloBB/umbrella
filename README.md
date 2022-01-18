@@ -3,7 +3,7 @@ Add colors to your program in C with umbrella.h
 
 ## Using in projects
 * Clone this repo
-  * ```git clone ```
+  * ```git clone https://github.com/MarcelloBB/umbrella.git```
 
 * Paste into your project folder
 
