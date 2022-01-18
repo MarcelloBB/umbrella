@@ -22,7 +22,7 @@
 * SOFTWARE.
 *
 *
-*    FILE : UMBRELLA.H
+*    FILE : UMBRELLA.C
 * =======================
 *
 * AUTHOR     : MARCELLO
