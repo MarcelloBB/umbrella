@@ -7,7 +7,7 @@ int main()
 	printf("\n%sUNDERLINED%s\n", UNDERLINE_ON, UNDERLINE_OFF);
 
 	// BOLD
-	printf("\n%sUNDERLINED%s\n", UNDERLINE_ON, UNDERLINE_OFF);
+	printf("\n%sBRIGHT%s\n", BRIGHT_ON, BRIGHT_OFF);
 	
 	// STD FORE
 	printf("\n%sWHITE\n", WHITE_FORE);
@@ -26,6 +26,15 @@ int main()
 	printf("\n%sBRIGHT_MAGENTA\n", BRIGHT_MAGENTA_FORE);
 	printf("\n%sBRIGHT_BLUE%s\n", BRIGHT_BLUE_FORE, ENDC);
 	printf("\n%sBRIGHT_CYAN%s\n", BRIGHT_CYAN_FORE, ENDC);
+	
+	// STD BACK
+	printf("\n%sBACK_WHITE\n", BACK_WHITE_FORE);
+	printf("\n%sBACK_BLACK\n", BACK_BLACK_FORE);
+	printf("\n%sBACK_YELLOW\n", BACK_YELLOW_FORE);
+	printf("\n%sBACK_RED\n", BACK_RED_FORE);
+	printf("\n%sBACK_MAGENTA\n", BACK_MAGENTA_FORE);
+	printf("\n%sBACK_BLUE%s\n", BACK_BLUE_FORE, ENDC);
+	printf("\n%sBACK_CYAN%s\n", BACK_CYAN_FORE, ENDC);
 	
 	return 0;
 }
