@@ -14,7 +14,7 @@
 #define       BOLD_OFF                 "\033[21m"
 
 /* COLOR (ON/OFF) */
-#define       ENDC                     "\033[39m"
+#define       ENDC                     "\033[39m\\033[49m"
 
 /* ====================================================
  *   FOREGROUND
