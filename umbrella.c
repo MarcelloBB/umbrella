@@ -33,8 +33,8 @@ int main()
 	printf("\n%sBACK_YELLOW\n", YELLOW_BACK);
 	printf("\n%sBACK_RED\n", RED_BACK);
 	printf("\n%sBACK_MAGENTA\n", MAGENTA_BACK);
-	printf("\n%sBACK_BLUE%s\n", BACK_BLUE_FORE, ENDC);
-	printf("\n%sBACK_CYAN%s\n", BACK_CYAN_FORE, ENDC);
+	printf("\n%sBACK_BLUE%s\n", BLUE_BACK, ENDC);
+	printf("\n%sBACK_CYAN%s\n", CYAN_BACK, ENDC);
 	
 	return 0;
 }
