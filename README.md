@@ -13,7 +13,7 @@ Add colors to your program in C with umbrella.h
     ```
     
 ## View
-To view a example, feel free to compile and run ```umbrella.c```
+To view a example, feel free to compile and run ```umbrella.c``` in _bin_ folder
 
 ## Basic usage
 ```c
