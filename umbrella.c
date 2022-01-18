@@ -28,11 +28,11 @@ int main()
 	printf("\n%sBRIGHT_CYAN%s\n", BRIGHT_CYAN_FORE, ENDC);
 	
 	// STD BACK
-	printf("\n%sBACK_WHITE\n", BACK_WHITE_FORE);
-	printf("\n%sBACK_BLACK\n", BACK_BLACK_FORE);
-	printf("\n%sBACK_YELLOW\n", BACK_YELLOW_FORE);
-	printf("\n%sBACK_RED\n", BACK_RED_FORE);
-	printf("\n%sBACK_MAGENTA\n", BACK_MAGENTA_FORE);
+	printf("\n%sBACK_WHITE\n", WHITE_BACK);
+	printf("\n%sBACK_BLACK\n", BLACK_BACK);
+	printf("\n%sBACK_YELLOW\n", YELLOW_BACK);
+	printf("\n%sBACK_RED\n", RED_BACK);
+	printf("\n%sBACK_MAGENTA\n", MAGENTA_BACK);
 	printf("\n%sBACK_BLUE%s\n", BACK_BLUE_FORE, ENDC);
 	printf("\n%sBACK_CYAN%s\n", BACK_CYAN_FORE, ENDC);
 	
