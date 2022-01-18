@@ -61,7 +61,7 @@
 #define       BRIGHT_YELLOW_BACK       "\033[103m"
 #define       BRIGHT_BLUE_BACK         "\033[104m"
 #define       BRIGHT_MAGENTA_BACK      "\033[105m"
-#define       BRIGHT_ CYAN_BACK        "\033[106m"
+#define       BRIGHT_CYAN_BACK         "\033[106m"
 #define       BRIGHT_WHITE_BACK        "\033[107m"
 
 #endif
