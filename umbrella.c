@@ -4,7 +4,7 @@
 int main()
 {
 	// BOLD
-	printf("\n\BOLD TEXTn");
+	printf("\nBOLD TEXTn");
 	printf("\n%sBOLD%s ", BOLD_ON, BOLD_OFF);
 	
 	// STD FORE
