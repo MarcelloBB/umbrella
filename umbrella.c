@@ -7,7 +7,7 @@ int main()
 	printf("\n%sUNDERLINED%s\n", UNDERLINE_ON, UNDERLINE_OFF);
 
 	// BOLD
-	printf("\n%sBRIGHT%s\n", BRIGHT_ON, BRIGHT_OFF);
+	printf("\n%sBOLD%s\n", BOLD_ON, BOLD_OFF);
 	
 	// STD FORE
 	printf("\n%sWHITE\n", WHITE_FORE);
