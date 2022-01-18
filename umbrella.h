@@ -7,7 +7,7 @@
  
 /* UNDERLINE (ON/OFF) */
 #define       UNDERLINE_ON             "\033[4m"
-#define       UNDERLINE_OFF            "\033[4m"
+#define       UNDERLINE_OFF            "\033[24m"
 
 /* BOLD (ON/OFF) */
 #define       BOLD_ON                  "\033[1m"
