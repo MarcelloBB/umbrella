@@ -5,9 +5,9 @@ Add colors to your program in C with umbrella.h
 * Clone this repo
   * ```git clone https://github.com/MarcelloBB/umbrella.git```
 
-* Paste into your project folder
+* Paste it into your project folder
 
-* Include into your files using:
+* Include it into your files using:
   * ```c
     #include "umbrella.h" // Check if you have umbrella.h in your dir
     ```
