@@ -1,5 +1,5 @@
 # ☂️umbrella☂️
-Add colors to your program in C with umbrella.h
+Add colours to your program in C with umbrella.h
 
 ## Using in projects
 * Clone this repo
